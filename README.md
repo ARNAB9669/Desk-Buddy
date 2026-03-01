@@ -11,3 +11,4 @@ I engineered this board over a massive 40-hour sprint to act as the central nerv
 * **Expressions (Outputs):** Dual audio amplifiers for stereo sound, custom hardware-logic LED status indicators, and a dedicated header for a TFT screen face.
 
 *Designed by ARNAB*
+<img width="1261" height="886" alt="Screenshot 2026-03-01 at 5 03 58 PM" src="https://github.com/user-attachments/assets/8c3f953e-c70f-44d5-87f9-f774344674b5" />
