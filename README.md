@@ -1,16 +1,37 @@
 # 🤖 Desk Buddy Robot Motherboard
 
-Welcome to the brain of the **Desk Buddy Robot**! This is a 100% custom-designed printed circuit board (PCB) built completely from scratch in KiCad.
+THIS IS DESK BUDDY THE GOAL OF THIS TO PROVIDE A STDENTS WHO SPOENTS ALMOST FULL DAY ON DESK A NERDY FRIEND.
+THIS PROJECTS PROVIDES A STUDNET WITH A FRIEND TO WHOME HE CAN TALK WITH SHARE THOUGTS BRAIN STROME IDEA.
+HOW IT WORKS
+THE ROBOT BODY HAS MIC TO LISTEN AND DISPLAY TO SHOW TEXT AND EYE AND SPEAKER TO SPEAK AND THE BRAIN IS IN A PYTHON/ NODE JS SERVER WHERE A YOU GET 2 OPTION TO USE ANY LLM
+ONE API KEY
+TWO LOCAL LLM
+GIVEN MANY STUDENT DO NOT HAVE POWER FULL COMPUTER [I AM ONE OF THEM TOO LOL]
+SO WE WILL USE AI KEY VERSION HERE SO WHEN WE WILL SPEAK TO THE ROBOT IT WIL MAKE AN API CALL TO THE LLM VIA THE LOCAL NODE JS OR PYTHON SERVER AND SPEAK OOUT THE RSPONSE WITH HUMAR.
 
-I engineered this board over a massive 40-hour sprint to act as the central nervous system for a smart desktop companion. Instead of using messy breadboards and jumper wires, all the complex logic is integrated into a single, clean, 2-layer motherboard.
+WORK NEEDS TO DO
+1.MAKE CUSTOM PCB
+2.MAKE 3D MODEL
+3.MAKE THE LOCAL SERVER CODE
 
-###  What's on the board:
-* **The Core:** An ESP32 microcontroller handling all the processing, logic, and Wi-Fi.
-* **Custom Memory:** A fully custom Micro SD Card circuit, engineered with proper 33-ohm resistors for high-speed signal integrity and its own dedicated 3.3V power plant.
-* **Senses (Inputs):** A MEMS Microphone for hearing, an MQ-2 Gas sensor for environment tracking, and capacitive touch lines.
-* **Expressions (Outputs):** Dual audio amplifiers for stereo sound, custom hardware-logic LED status indicators, and a dedicated header for a TFT screen face.
+WORK DOEN SO FAR
+1. 3D MDOEL IS DOEN [MADE IN FUSIN 360]
+2. PCB IS DONE [JUST FINISHED WILL UPLOAD THE FILE SOON]
 
+HOW TO MAKE IT YOUR SELF
+1. INSTALL ALL FILES
+2.BY ALL COMPONENTS GIVEN IN THE CSV FILE
+3. PRINT THE PCBA AND 3D MODELS
+4. SOLDER ALL
+5.JOIN ALL IN SINGER BODY
+6. I KNWK THE COODE IS NOT DOEN YET BUT WHEN WILL BE DONE BEFORE RUNNING TEH CODE MAE SURE TO UPDATE YOUR OWN LLM API KEY.
+
+IN FUTURE NTO NOW I WILL MAKE YOUTUBE TUTORIAL TO ASSEMBLE THIS IF I EVR FINISH I WILL PUT THE LINK HERE .
+
+SOMW IMAGES ARE GIVEN BELOW -- 
 *Designed by ARNAB*
 <img width="751" height="621" alt="Screenshot 2026-03-08 at 12 56 15 AM" src="https://github.com/user-attachments/assets/be47d9fe-8d09-499f-bef0-3ef96b00f391" />
 <img width="776" height="535" alt="Screenshot 2026-03-08 at 12 56 32 AM" src="https://github.com/user-attachments/assets/5de09844-91b9-4ada-86b7-e52ec9a50171" />
 <img width="752" height="572" alt="Screenshot 2026-03-08 at 12 56 46 AM" src="https://github.com/user-attachments/assets/95bee7bc-379e-478a-ad78-7b6bf1f6694b" />
+
+A FUN FACT IT TOOK ME OVER 42 HOURS TO COOEM SO FAR AND CRAZY I HAVE THE FULL VIDEO RECORDING IN TIEM LAPSE USING LAPE TOOL.
