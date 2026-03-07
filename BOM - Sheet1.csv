@@ -1,0 +1,12 @@
+Part List,Module,Quanitity
+Display,1.8 inch TFT,1X
+Mic,INMP441,1X
+Touch,TTP223,1X
+Survo Motor,SG90,3X
+Battery,3.7V ,2X
+Boost Converter,3.7V to 5V,1X
+ESP-32,Dev kit V1,1X
+LED,3.7V,5X
+Rezistor,100 Ω,3X
+Amplifier,MAX98357A,1X
+Speaker,4Ω 3W,1x
