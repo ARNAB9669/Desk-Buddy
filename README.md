@@ -57,6 +57,10 @@ Here are some images of the design and setup:
 <img width="932" height="681" alt="Screenshot 2026-03-09 at 12 43 11 AM" src="https://github.com/user-attachments/assets/3585ebfb-3c6a-4437-8655-dc056ce34b79" />
 
 <img width="768" height="585" alt="Screenshot 2026-03-09 at 12 43 29 AM" src="https://github.com/user-attachments/assets/cbf6915e-8cce-49b8-bfcb-9673fe6fc4ed" />
+This is how evrything is connected 
+<img width="1376" height="879" alt="Screenshot 2026-03-09 at 1 20 52 AM" src="https://github.com/user-attachments/assets/523bb76a-35a9-4d37-92b3-6c6b8a09c7e4" />
+
+
 
 ---
 *WHOM TO THANKS - - YEAH ITS ME YOUR BRO ARNAB*
